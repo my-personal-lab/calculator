@@ -1,3 +1,5 @@
+/* eslint-disable no-new */
+
 /**
  * Import all your initial settings
  */
